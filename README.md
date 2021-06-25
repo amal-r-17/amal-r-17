@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate on Machine learning or Deep learning Projects.
 - 💬 Ask me about anything.
 - 📫 How to reach me: amalr.da20@iiitmk.ac.in
+- 🌠 Connect with me on [Linked In](https://www.linkedin.com/in/amal-r-iiitmk/)
 - ⚡ Fun fact: We are made of Stardust!!!
 
 ![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=amal-r-17&show_icons=true&theme=radical)
