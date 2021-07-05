@@ -1,6 +1,6 @@
 ### Hi there, I am Amal and you just found my profile!!!👋
 
-- 👀 I’m currently pursuing Masters in Data Analytics from IIITM-K.
+- 👀 I’m currently pursuing Masters in Data Analytics from IIITM-Kerala.
 - 🔭 I’m currently working on Object Detection using different YOLO algorithms.
 - 🌱 I’m currently learning a lot of things ;)
 - 👯 I’m looking to collaborate on Machine learning or Deep learning Projects.
